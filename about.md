@@ -1,29 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I love expressing myself via the yoyo. And I want to share this feeling to every yoyo player [@check my freestyle](https://www.youtube.com/watch?v=3pSrGVuDfRk).
 
-There are currently two themes built on Poole:
+I am currently sponsored by:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Unprld](http://www.unprld.com/)
+* [OriginalThrow](https://shop.yoyoexpert.com/collections/original-throw)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
