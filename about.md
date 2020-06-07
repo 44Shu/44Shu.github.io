@@ -8,9 +8,6 @@ title: About Me
 
 * [cv](https://44shu.github.io/shuyun/Shuyun%20Tang%20resume%206.6.pdf)
 
-<div class ="res center-text" title="Resume">
-          <a href="Shuyun Tang resume 6.6.pdf"><h5>Resume</h5></a>
-</div>
 
 My Projects:
 * ["SSH Port 22 Hacker Passwords Pattern"](https://github.com/44Shu/ssh-readme)
