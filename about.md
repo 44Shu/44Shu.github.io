@@ -6,6 +6,8 @@ title: About Me
   Data Scientist: 
 </p>
 
+* [cv](https://github.com/44Shu/shuyun/blob/gh-pages/Shuyun%20Tang%20resume%206.6.pdf)
+
 <p class="message">
   Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion
 </p>
