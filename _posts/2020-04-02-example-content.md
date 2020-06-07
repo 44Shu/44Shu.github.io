@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-
-
 <div class="centeredMain margin">
   <img class="main" src="shuyuntang.jpg" alt="2019 Santa Catalina" height="120" width="95">
   <h3 class="center-text">Shuyun Tang</h3>
@@ -17,3 +15,4 @@ title: Contact
           <a href="Shuyun Tang resume 6.6.pdf"><h5>Resume</h5></a>
         </div>
     </div>
+</div>
