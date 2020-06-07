@@ -6,7 +6,11 @@ title: About Me
   Data Scientist: UCSB 2021er, majoring Statistics and Data Science. 
 </p>
 
-* [cv](https://github.com/44Shu/shuyun/blob/gh-pages/Shuyun%20Tang%20resume%206.6.pdf)
+* [cv](https://44shu.github.io/shuyun/Shuyun%20Tang%20resume%206.6.pdf)
+
+<div class ="res center-text" title="Resume">
+          <a href="Shuyun Tang resume 6.6.pdf"><h5>Resume</h5></a>
+</div>
 
 My Projects:
 * ["SSH Port 22 Hacker Passwords Pattern"](https://github.com/44Shu/ssh-readme)
