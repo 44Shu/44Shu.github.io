@@ -1,8 +1,8 @@
 # Setup
 title:               Shuyun Tang
-tagline:             'The Clown'
-description:         'Playing YOYO everyday'
-url:                 https://44Shu.github.io/test
+tagline:             'DATA SCIENCE'
+description:         'UCSB 2021er / Statistics and Data Science'
+url:                 https://44Shu.github.io/shuyun
 baseurl:             ''
 paginate:            5
 permalink:           pretty
