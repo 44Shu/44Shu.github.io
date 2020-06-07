@@ -4,7 +4,7 @@ title: Projects&Experience
 ---
 
   
-  ## Data Scientist: UCSB 2021er, majoring Statistics and Data Science. 
+  ## Data Scientist: UCSB 2021er, majoring Statistics and Data Science. ##
 
 * [resume](https://44shu.github.io/shuyun/Shuyun%20Tang%20resume%206.6.pdf)
 
@@ -12,7 +12,7 @@ My Projects:
   * ["SSH Port 22 Hacker Passwords Pattern"](https://github.com/44Shu/ssh-readme)
   This project determines the password’s security by comparing its patterns within the dataset using the K-means clustering process to sort out 8 clusters and finding out their corresponded central passwords(the medoids). We present our results in a visualized distance comparison to the 8 medoids through the use of Damerau–Levenshtein distance and Hamming Distance.
  
-  ## Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion
+  ## Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion ##
 
   Just like the musician love composing, I love expressing my feeling via the yoyo. You can [check my freestyle](https://www.youtube.com/watch?v=3pSrGVuDfRk).
   I am currently sponsored by:
