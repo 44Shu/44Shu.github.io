@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: <3
 ---
 
 Shuyun Tang's info page
