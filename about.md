@@ -2,12 +2,15 @@
 layout: page
 title: About Me
 ---
-
 <p class="message">
-  2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion
+  Data Scientist: 
 </p>
 
-I love expressing myself via the yoyo. And I want to share this feeling to every yoyo player [@check my freestyle](https://www.youtube.com/watch?v=3pSrGVuDfRk).
+<p class="message">
+  Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion
+</p>
+
+I love expressing myself via the yoyo. And I want to share this feeling to every yoyo player [check my freestyle](https://www.youtube.com/watch?v=3pSrGVuDfRk).
 
 I am currently sponsored by:
 
