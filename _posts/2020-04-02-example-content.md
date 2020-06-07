@@ -1,6 +1,6 @@
 ---
 layout: page
-title: info
+title: 
 ---
    <div class="centeredMain margin">
       <img class="main" src="shuyuntang.jpg" alt="2019 Santa Catalina" height="120" width="95">
