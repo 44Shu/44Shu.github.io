@@ -5,7 +5,7 @@ title: Projects&Experience
 
 ## Data Scientist: UCSB 2021er, majoring in Statistics and Data Science. 
 
-* [resume](https://44shu.github.io/shuyun/Shuyun%20Tang%20resume%206.6.pdf)
+* [resume](https://github.com/44Shu/shuyun/blob/gh-pages/Shuyun%20(Jerry)%20Tang%20cv%20ver2.pdf)
 
 My Projects:
   * ["Kaggle Competitions Solutions"](https://github.com/44Shu/Kaggle-Solutions)
