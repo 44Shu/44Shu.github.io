@@ -3,11 +3,14 @@ layout: page
 title: Projects&Experience
 ---
 
-## Data Scientist: UCSB 2021er, majoring Statistics and Data Science. 
+## Data Scientist: UCSB 2021er, majoring in Statistics and Data Science. 
 
 * [resume](https://44shu.github.io/shuyun/Shuyun%20Tang%20resume%206.6.pdf)
 
 My Projects:
+  * ["Kaggle Competitions Solutions"](https://github.com/44Shu/Kaggle-Solutions)
+  I achieved top 900/150000 and Competition Expert tier in Kaggle by the end of 2020. This is the project repo for my competitions (4 silver medals and 1 solo bronze medal).
+
   * ["SSH Port 22 Hacker Passwords Pattern"](https://github.com/44Shu/ssh-readme)
   This project determines the password’s security by comparing its patterns within the dataset using the K-means clustering process to sort out 8 clusters and finding out their corresponded central passwords(the medoids). We present our results in a visualized distance comparison to the 8 medoids through the use of Damerau–Levenshtein distance and Hamming Distance.
   
@@ -24,4 +27,5 @@ My Projects:
   * [OriginalThrow](https://shop.yoyoexpert.com/collections/original-throw)
 
 
+Updating...
 Thanks for reading!
