@@ -3,19 +3,26 @@ layout: page
 title: Projects&Experience
 ---
 
-## Data Scientist: UCSB 2021er, majoring in Statistics and Data Science. 
+## UCSB: Bachelor of Science in Statistics and Data Science; UCB: Master of Art in Statistics. 
 
-* [resume](https://44shu.github.io/shuyun/Shuyun%20(Jerry)%20Tang%20cv%20ver2.pdf)
+* [resume](https://github.com/44Shu/shuyun/blob/gh-pages/Shuyun_s_CV.pdf)
 
 My Projects:
-  * ["Kaggle Competitions Solutions"](https://github.com/44Shu/Kaggle-Solutions)
-  I achieved top 900/150000 and Competition Expert tier in Kaggle by the end of 2020. This is the project repo for my competitions (4 silver medals and 1 solo bronze medal).
+
+  * "Multi-modal Emotion Recognition with Graph Neural Networks"
+  Applied a novel hierarchical multi-modal feature fusion to the graph level. Used attention-based encoder with Graph Convolutional Networks. Trained using Valence-Arousal learning pipeline. Achieved new state-of-the-art results in the following data: IEMOCAP, MELD, AVEC. Library used: NetworkX, Pytorch Geometric. Supervised and granted funding from Prof. Hiroshi Ishiguro.
+  
+  * ["Joint Fovea and Optic Disc Segmentation for Degenerated Retina"](http://bionicvisionlab.org/authors/tang_shuyun/)
+  Proposed a new U-Net based attention model with multiple local bottleneck structures. Conducted extensive experiments and ablation studies to prove it in segmenting the landmarks in disease fundus images(Age-Related Macular Degeneration, Glaucoma), which are usually hard to segment with traditional methods. Achieved new state-of-the-art results in the following data: REFUGEE, Baidu ADMD, Messidor.
+
+  * ["Joint Modeling of EEG, fMRI and Structural MRI"](https://dynamo.cs.ucsb.edu/people/tang-0)
+  Combined high temporal resolution EEG and high spacial resolution fMRI for better brain activity modeling. Used spatial-temporal graph neural networks with adaptive adjacency matrix to solve the time series prediction. Interpreted the signal source localization among various brain tasks.
+  
+  * ["Kaggle Competitions"](https://github.com/44Shu/Kaggle-Solutions)
+  I achieved top 530/150000 and Competition Expert tier in Kaggle by the end of 2020. This is the project repo for my competitions (4 silver medals and 2 solo bronze medal).
 
   * ["SSH Port 22 Hacker Passwords Pattern"](https://github.com/44Shu/ssh-readme)
   This project determines the password’s security by comparing its patterns within the dataset using the K-means clustering process to sort out 8 clusters and finding out their corresponded central passwords(the medoids). We present our results in a visualized distance comparison to the 8 medoids through the use of Damerau–Levenshtein distance and Hamming Distance.
-  
-  * ["E-Commerce Data Analysis"](https://github.com/44Shu/E-Commerce-Data-Analysis)
-  The primary goal of our project is to explore differenct influencing factors (namely product price, delivery length, payment method, quantity of product photos, and the geographic position of customers) on customer's e-purshace bahaviors and satisfaction, so that we could predict customers' purchase preference and the trend of ecommerce
   
   
   
