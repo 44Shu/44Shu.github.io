@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
    <div class="centeredMain margin">
-<!--       <img class="main" src="shuyuntang.jpg" alt="2019 Santa Catalina" height="120" width="95"> -->
+      <img class="main" src="shuyuntang.jpg" alt="2019 Santa Catalina" height="120" width="100">
       <h3 class="center-text">Shuyun Tang</h3>
       <h5 class="center-text">Researcher, Yo-Yo player </h5>
         <div class="center-text">
