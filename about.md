@@ -12,7 +12,7 @@ My Projects:
   * "Multi-modal Emotion Recognition with Graph Neural Networks" (intend to submit to AAAI 2021)
   Applied a novel hierarchical multi-modal feature fusion to the graph level. Used attention-based encoder with Graph Convolutional Networks. Trained using Valence-Arousal learning pipeline. Achieved new state-of-the-art results in the following data: IEMOCAP, MELD, AVEC. Library used: NetworkX, Pytorch Geometric. Supervised and granted funding from Prof. Hiroshi Ishiguro.
   
-  * ["Joint Fovea and Optic Disc Segmentation for Degenerated Retina"](http://bionicvisionlab.org/authors/tang_shuyun/) (submitted to MICCAI 2021)
+  * ["Joint Fovea and Optic Disc Segmentation for Degenerated Retina"](https://arxiv.org/abs/2107.04721) (submitted to MICCAI 2021)
   Proposed a new U-Net based attention model with multiple local bottleneck structures. Conducted extensive experiments and ablation studies to prove it in segmenting the landmarks in disease fundus images(Age-Related Macular Degeneration, Glaucoma), which are usually hard to segment with traditional methods. Achieved new state-of-the-art results in the following data: REFUGEE, Baidu ADMD, Messidor.
 
   * ["Joint Modeling of EEG, fMRI and Structural MRI"](https://dynamo.cs.ucsb.edu/people/tang-0) (intend to submit to AAAI 2021)
