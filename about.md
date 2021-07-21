@@ -26,9 +26,9 @@ My Projects:
   
   
   
-## Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion 
+## Yoyo player: 2019 World Yoyo Contest 1A 8th, 2019 Las Vegas Open Champion, FL state champion 
 
-  Just like the musician love composing, I love expressing my feeling via the yoyo. You can [check my freestyle](https://www.youtube.com/watch?v=3pSrGVuDfRk).
+  Just like the musician love composing, I love expressing my feeling via the yoyo. You can [check my freestyle](https://www.youtube.com/watch?v=HhJy80GyWog&t=1s).
   I am currently sponsored by:
   * [Unprld](http://www.unprld.com/)
   * [OriginalThrow](https://shop.yoyoexpert.com/collections/original-throw)
